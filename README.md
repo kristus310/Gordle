@@ -1,7 +1,7 @@
 # Gordle
 ## Go-Wordle
 
-Gordle is a fun word puzzle game inspired by **Wordle** and built in **Go** and with GUI frameworkf **Fyne**! It is a fun but also logic! Test your English vocabulary! This project is still in development!
+Gordle is a simple and minimalistic fun word puzzle game inspired by **Wordle** and built in **Go** and with GUI frameworkf **Fyne**! It is a fun but also logic! Test your English vocabulary! This project is still in development!
 
 ---
 
