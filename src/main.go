@@ -15,6 +15,7 @@ func main() {
 }
 
 func startGame() {
+	wordlistSetup()
 	word = WordGenerator()
 	SetupGUI()
 }
