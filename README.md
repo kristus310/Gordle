@@ -1,4 +1,5 @@
 # Gordle
+![gordlelogo](https://github.com/user-attachments/assets/33266bac-43cb-44f0-8d56-3c61f13ea30a)
 ## Go-Wordle
 
 Gordle is a simple and minimalistic fun word puzzle game inspired by **Wordle** and built in **Go** and with GUI frameworkf **Fyne**! It is a fun but also logic! Test your English vocabulary! This project is still in development!
@@ -22,7 +23,11 @@ Gordle is a simple and minimalistic fun word puzzle game inspired by **Wordle** 
 
 ## Installation
 ## Game:
-- just download the game from the folder **builds** and play the game!
+- Just download the build from folder **builds** for your OS.
+- and then just simply:
+  ```bash
+  sudo chmod +x gordle-linux #or windows
+  ./gordle-linux
 
 ## Code:
 #### Requirements
